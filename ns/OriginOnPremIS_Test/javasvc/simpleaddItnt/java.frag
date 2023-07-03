@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">simpleaddItnt</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsNClN0cmlu
+ZwlpbnRlZ2VyMSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAiaW50ZWdl
+cjEiICk7DQpTdHJpbmcJaW50ZWdlcjIgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1
+cnNvciwgImludGVnZXIyIiApOw0KcGlwZWxpbmVDdXJzb3IuZGVzdHJveSgpOw0KDQpJbnRlZ2Vy
+IGk9MDsgSW50ZWdlciBqPTA7DQppPUludGVnZXIucGFyc2VJbnQoaW50ZWdlcjEpOw0Kaj1JbnRl
+Z2VyLnBhcnNlSW50KGludGVnZXIyKTsNCmludCBvdXQgPSBpK2o7DQoNCg0KDQpTdHJpbmcgT3V0
+cHV0U3RyaW5nID0gIiIrb3V0Ow0KDQovLyBwaXBlbGluZQ0KSURhdGFDdXJzb3IgcGlwZWxpbmVD
+dXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOw0KSURhdGFVdGlsLnB1dCggcGlwZWxpbmVD
+dXJzb3JfMSwgIk91dHB1dFN0cmluZyIsIE91dHB1dFN0cmluZyApOw0KcGlwZWxpbmVDdXJzb3Jf
+MS5kZXN0cm95KCk7</value>
+</Values>
